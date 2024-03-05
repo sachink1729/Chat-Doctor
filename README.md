@@ -1,8 +1,7 @@
 # Chat-Doctor
 Finetuning Mistral-7B into a Medical Chat Doctor using Huggingface 🤗+ QLoRA + PEFT.
 
-Will upload the trained weights in few days, thank you!
-
+For complete guide follow my medium article: https://sachinkhandewal.medium.com/finetuning-mistral-7b-into-a-medical-chat-doctor-using-huggingface-qlora-peft-5ce15d45f581
 
 ## 1. Introduction
 
